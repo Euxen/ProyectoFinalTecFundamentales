@@ -1,0 +1,42 @@
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\reyho\source\repos\AdministradorCalificaciones\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba2\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe.config
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.exe
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\bin\Debug\AdministradorCalificaciones.pdb
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csprojAssemblyReference.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmCalificarEstudiante.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmListarCalificaciones.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmPrincipal.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegistrarEstudiante.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.frmRegMateria.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.Properties.Resources.resources
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.GenerateResource.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.exe
+C:\Users\Kelvin\Desktop\FINAL PROJECT TECNICAS\Prueba3\AdministradorCalificaciones\obj\Debug\AdministradorCalificaciones.pdb
